@@ -72,9 +72,8 @@
 <div data-importer="socials" align="left">
   <a href="https://www.instagram.com/elias_.gr/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="41" height="29" alt="instagram logo"  />
-  </a>
+  </a href="https://www.linkedin.com/in/elias-guillermo-rios-pinedo/" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="41" height="29" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="41" height="29" alt="discord logo"  />
 </div>
 
 ###
