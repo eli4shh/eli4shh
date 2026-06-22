@@ -6,14 +6,6 @@
 
 ###
 
-<h2 data-importer="text" align="left">About me</h2>
-
-###
-
-<div data-importer="stats" align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eli4shh&layout=compact&theme=dark&langs_count=5" height="150" alt="languages graph" />
-</div>
-
 ###
 
 <h2 data-importer="text" align="left">My skills:</h2>
@@ -56,6 +48,16 @@
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="30" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nestjs" height="30" alt="nestjs logo"  />
+</div>
+
+###
+
+<h2 data-importer="text" align="left">About me</h2>
+
+###
+
+<div data-importer="stats" align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eli4shh&layout=compact&theme=dark&langs_count=5" height="150" alt="languages graph" />
 </div>
 
 ###
