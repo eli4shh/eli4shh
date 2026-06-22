@@ -1,10 +1,23 @@
-<h2 data-importer="text" align="left">Hi Guys What's up?</h2>
+<h2 data-importer="text" align="left">Hi Guys What's up? 👋</h2>
 
 ###
 
-<h4 data-importer="text" align="left">My name is Elias and I'm a software developer, from Perú.</h4>
+<h4 data-importer="text" align="left">My name is Elias and I'm a software developer from Perú 🇵🇪</h4>
 
 ###
+
+<h2 data-importer="text" align="left">About me</h2>
+
+###
+
+<div data-importer="me" align="left">
+  <ul>
+    <li>✨ Empezando con todo en esta nueva etapa.</li>
+    <li>📚 <b>Currently learning:</b> Full-stack development & modern architecture.</li>
+    <li>🎯 <b>Goals:</b> Move and buy a home outside Perú ✈️ and become fluent in English.</li>
+    <li>🎲 <b>Hobbies:</b> Drawing 🎨 and listening to music 🎵.</li>
+  </ul>
+</div>
 
 ###
 
@@ -52,16 +65,6 @@
 
 ###
 
-<h2 data-importer="text" align="left">About me</h2>
-
-###
-
-<div data-importer="stats" align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eli4shh&layout=compact&theme=dark&langs_count=5" height="150" alt="languages graph" />
-</div>
-
-###
-
 <h2 data-importer="text" align="left">My social media:</h2>
 
 ###
@@ -78,6 +81,9 @@
 
 <br clear="both">
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/eli4shh/eli4shh/snake-output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <h3 align="left">My Contribution Snake:</h3>
+  <img data-importer="snake" src="https://raw.githubusercontent.com/eli4shh/eli4shh/snake-output/snake.svg" alt="Snake animation" />
+</div>
 
 ###
