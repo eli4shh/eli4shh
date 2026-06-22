@@ -10,8 +10,8 @@
 
 ###
 
-<div data-importer="stats" align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eli4shh&layout=compact&theme=dracula&langs_count=5" height="150" alt="languages graph" />
+<div data-importer="stats" align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eli4shh&layout=compact&theme=dark&langs_count=5" height="150" alt="languages graph" />
 </div>
 
 ###
