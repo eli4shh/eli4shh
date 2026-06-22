@@ -11,12 +11,12 @@
 ###
 
 <div data-importer="me" align="left">
-  <ul>
-    <li>✨ Empezando con todo en esta nueva etapa.</li>
-    <li>📚 <b>Currently learning:</b> Full-stack development & modern architecture.</li>
-    <li>🎯 <b>Goals:</b> Move and buy a home outside Perú ✈️ and become fluent in English.</li>
-    <li>🎲 <b>Hobbies:</b> Drawing 🎨 and listening to music 🎵.</li>
-  </ul>
+  <h4>
+    ✨ Starting this new stage as a graduate with everything <br />
+    📚 Currently learning: QA and Testing <br />
+    🎯 Goals: Buy a home outside Perú 🇵🇪, live there, and speak fluent English 🚀 <br />
+    🎲 And ... My hobbies: drawing 🎨 and listening to music 🎵
+  </h4>
 </div>
 
 ###
@@ -69,7 +69,7 @@
 
 ###
 
-<div data-importer="socials" align="center">
+<div data-importer="socials" align="left">
   <a href="https://www.instagram.com/elias_.gr/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="41" height="29" alt="instagram logo"  />
   </a>
