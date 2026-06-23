@@ -21,13 +21,13 @@
 
 <div align="left">
   <a href="https://www.linkedin.com/in/elias-guillermo-rios-pinedo/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="41" height="29" alt="linkedin logo" />
-  </a>
-  <a href="https://www.instagram.com/elias_.gr/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="41" height="29" alt="instagram logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="35" height="35" alt="linkedin logo" />
   </a>
   <a href="mailto:riospinedoelias@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/000000/apple-mail.png" width="41" height="29" alt="email logo" />
+    <img src="https://img.icons8.com/fluency/48/000000/apple-mail.png" width="35" height="35" alt="email logo" />
+  </a>
+  <a href="https://www.instagram.com/elias_.gr/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="35" height="35" alt="instagram logo" />
   </a>
 </div>
 
