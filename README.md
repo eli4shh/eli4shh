@@ -67,5 +67,13 @@
 <h2 align="left">🐍 My Contribution:</h2>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/eli4shh/eli4shh/snake-output/snake.svg" alt="Snake animation" width="100%" />
+  <img src="https://raw.githubusercontent.com/eli4shh/eli4shh/snake-output/snake.svg" alt="Snake animation" width="90%" />
 </div>
+
+---
+
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=ely4shh">
+    <img src="https://komarev.com/ghpvc/?username=ely4shh&label=Profile%20views&color=C63C51&style=flat-square" alt="ely4shh's profile views" width="15%" />
+  </a>
+</p>
