@@ -1,4 +1,4 @@
-name: Generate Profile Animations
+name: Generate Space Shooter Animation
 
 on:
   schedule:
@@ -12,36 +12,15 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
 
-      # 1. Generar la animación de la Serpiente
-      - name: Generate Snake Animation
-        uses: Platane/snk@v3
+      # Generar exclusivamente la animación del Space Shooter
+      - name: Generate Space Shooter Retro
+        uses: mmgha/space-shooter-action@v1
         with:
-          github_user_name: eli4shh
-          outputs: |
-            dist/snake.svg
-            dist/snake-dark.svg?palette=github-dark
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          username: eli4shh
+          output: dist/space-shooter.gif
 
-      # 2. Generar la animación del Space Shooter (Versión alternativa 100% operativa)
-      - name: Generate Space Shooter
-        uses: rishiups/github-contribution-3d-box@main
-        with:
-          github_user_name: eli4shh
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      # Nota: Si prefieres la versión exacta del Space Shooter plano sin errores, 
-      # podemos usar directamente el contenedor dockerizado de "mmgha/space-shooter-action@v1"
-      # Reemplaza el paso anterior por este si buscas el clásico plano:
-      # - name: Generate Space Shooter Retro
-      #   uses: mmgha/space-shooter-action@v1
-      #   with:
-      #     username: eli4shh
-      #     output: dist/space-shooter.gif
-
-      # 3. Subir los archivos a tu rama 'snake-output'
-      - name: Push to snake-output branch
+      # Subir el gif a tu rama 'snake-output'
+      - name: Push to production branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: snake-output
