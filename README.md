@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Elias, a Software Developer from Perú 🇵🇪</h1>
+<h3 align="center">Hi 👋 I'm Elias, a Software Developer from Perú 🇵🇪</h3>
 
 ---
 
