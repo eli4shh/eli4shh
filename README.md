@@ -1,4 +1,4 @@
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=181C14,3C3D37,697565&text=Hi%20%F0%9F%91%8B%20I'm%20Elias,%20a%20Software%20Developer&fontSize=38&fontColor=fff&animation=twinkling&fontAlignY=35&textBg=false" width="100%"/></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=181C14,3C3D37,697565&text=Hi%20%F0%9F%91%8B%20I'm%20Elias,%20a%20Software%20Developer&fontSize=38&fontColor=fff&animation=twinkling&fontAlignY=35&textBg=false&v=1" width="100%"/></p>
 
 <h2 align="left">📌 About me:</h2>
 
