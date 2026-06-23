@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋 I'm Elias, a Software Developer from Perú 🇵🇪</h2>
+<h1 align="center">Hi 👋 I'm Elias, a Software Developer from Perú 🇵🇪</h1>
 
 ---
 
@@ -19,7 +19,7 @@
 
 <h2 align="left">☕ Connect with me:</h2>
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/elias-guillermo-rios-pinedo/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="35" height="35" alt="linkedin logo" />
   </a>
@@ -35,7 +35,7 @@
 
 <h2 align="left">🛠 My Skills:</h2>
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo" /> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="typescript logo" /> &nbsp;
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="35" alt="html5 logo" /> &nbsp;
@@ -60,14 +60,8 @@
 
 <h2 align="left">💼 Core Expertise:</h2>
 
-<div align="left">
-  <ul>
-    <li>🔹 Full Stack Web Development</li>
-    <li>🔹 RESTful API Design & Development</li>
-    <li>🔹 Mobile Application Development (Android)</li>
-    <li>🔹 Database Integration & Management</li>
-    <li>🔹 Applied Machine Learning in Practical Projects</li>
-  </ul>
+<div align="center">
+  <ul>Full Stack Web Development - Database Integration & Management - RESTful API Design & Development - Applied Machine Learning in Practical Projects</ul>
 </div>
 
 ---
