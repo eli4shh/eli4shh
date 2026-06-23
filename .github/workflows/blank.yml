@@ -1,4 +1,4 @@
-name: Generate Snake
+name: Generate Profile Animations
 
 on:
   schedule:
@@ -22,6 +22,14 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Generate Space Shooter
+        uses: czl9707/gh-space-shooter@master
+        with:
+          username: eli4shh
+          output: dist/space-shooter.gif
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Push to snake-output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
@@ -29,3 +37,4 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
